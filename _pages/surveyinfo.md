@@ -21,4 +21,4 @@ Explore the demographic distribution of respondents here:
 
 ## Conduct a climate survey in your own department
 
-If you are interested in using our survey as a template to design and conduct your own graduate student climate survey, you can view a copy of our survey in PDF format [here](https://github.com/APSAGradHack/dataresources/blob/master/APSA%20Hackathon%20Qualtrics%20Survey%20Script.pdf). Please also see our [suggestions for departments](../suggestionsfordepartments) page for ideas of programs, policies, and resources from the APSA Hackathon team.
+If you are interested in using our survey as a template to design and conduct your own graduate student climate survey, you can view a copy of our survey in PDF format [here](https://github.com/APSAGradHack/APSAGradHack.github.io/blob/master/files/APSA_grad_hackathon_survey_questions.pdf). Please also see our [suggestions for departments](../suggestionsfordepartments) page for ideas of programs, policies, and resources from the APSA Hackathon team.
