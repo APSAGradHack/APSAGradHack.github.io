@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Policy Ideas"
-permalink: /suggestions/
+title: "Contact Us"
+permalink: /contactus/
 author_profile: true
 ---
 

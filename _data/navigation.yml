@@ -9,8 +9,14 @@ main:
   - title: "Resources For Grad Students"
     url: /resourcesforgrads/    
     
-  - title: "Policy Ideas"
-    url: /suggestions/
+  - title: "Resources for Departments"
+    url: /resourcesfordepartments/
+
+  - title: "Contact Us"
+    url: /contactus/
+
+  - title: "Our Team"
+    url: /ourteam/
         
   - title: "Blog"
     url: /year-archive/
