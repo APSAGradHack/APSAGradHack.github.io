@@ -14,7 +14,7 @@ Dolmage, J. T. (2017). Academic Ableism: Disability and Higher Education. Univer
 
 Suggestions to deal with ableism: https://chronicallyacademic.blogspot.com/ 
 
-###Ethnic Minorities:
+### Ethnic Minorities:
 Makarova, E., & Birman, D. (2015). Cultural transition and academic achievement of students from ethnic minority backgrounds: a content analysis of empirical research on acculturation. Educational Research, 57(3), 305-330.
 
 Umaña-Taylor, A. J. (2016). A post-racial society in which ethnic-racial discrimination still exists and has significant consequences for youths’ adjustment. Current Directions in Psychological Science, 25(2), 111-118.
@@ -33,7 +33,7 @@ Spiegler, T. and Bednarek, A., 2013. First-generation students: what we ask, wha
 
 Tate, K.A., Fouad, N.A., Marks, L.R., Young, G., Guzman, E. and Williams, E.G., 2015. Underrepresented first-generation, low-income college students’ pursuit of a graduate education: Investigating the influence of self-efficacy, coping efficacy, and family influence. Journal of Career Assessment, 23(3), pp.427-441.
 
-#International students:
+### International students:
 
 Lee, J. J., & Rice, C. (2007). Welcome to America? International student perceptions of discrimination. Higher education, 53(3), 381-409.
 
