@@ -15,7 +15,7 @@ As of August 31, 2018, the survey has received 426 respondents. While the survey
 
 Explore the demographic distribution of respondents here:
 
-<iframe src=“//s.crunch.io/widget/index.html#/ds/89f5fe4845e3895bfa86d3459d4c7bf8/row/00001b?viz=groupedBarPlot&cp=percent&dp=0&grp=stack” width=“600" height=“600”></iframe>
+<iframe src="//s.crunch.io/widget/index.html#/ds/89f5fe4845e3895bfa86d3459d4c7bf8/row/00001b?viz=groupedBarPlot&cp=percent&dp=0&grp=stack" width="600" height="600"></iframe>
 
 ## Explore and download the data
 
