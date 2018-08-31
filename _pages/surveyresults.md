@@ -9,7 +9,7 @@ author_profile: true
 
 Respondents answered questions about their experiences with exclusionary and discriminatory behavior over the last year. Explore filters based on respondent self-description, institution type, subfield, and career experience.
 
-<iframe src="//s.crunch.io/widget/index.html#/ds/832bfc02baef541d732dfe6b65d87007/row/d2855e92d44c4cb08437c5501a92c0f3?viz=groupedBarPlot&cp=percent&dp=0&grp=stack" width="100%" height="“"600"></iframe>
+<iframe src="//s.crunch.io/widget/index.html#/ds/832bfc02baef541d732dfe6b65d87007/row/d2855e92d44c4cb08437c5501a92c0f3?viz=groupedBarPlot&cp=percent&dp=0&grp=stack" width="100%" height=600"></iframe>
 
 About a third of respondents experienced exclusionary behavior in the departments sometimes, often, or very often in the last year. And 80% of women reported discrimination based on gender identity.
 
