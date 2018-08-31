@@ -19,16 +19,11 @@ Explore the demographic distribution of respondents here:
 
 <iframe src="//s.crunch.io/widget/index.html#/ds/89f5fe4845e3895bfa86d3459d4c7bf8/row/00001b?viz=groupedBarPlot&cp=percent&dp=0&grp=stack" width="100%" height="600"></iframe>
 
----
-layout: archive
-title: "Explore Survey Results"
-permalink: /surveyresults/
-author_profile: true
----
+## Explore the survey results
 
 Below are a series of interactive tools with which you can explore the results to the APSA Hackathon Survey for Graduate Student Diversity and Inclusion. Use the drop-down menu in the bottom left of each table to filter responses based on respondent self-description, institution type, subfield, and career experience.
 
-## Exclusion and discrimination
+### Exclusion and discrimination
 
 Respondents answered questions about their experiences with exclusionary and discriminatory behavior over the last year.
 
@@ -36,7 +31,7 @@ Respondents answered questions about their experiences with exclusionary and dis
 
 About a third of respondents experienced exclusionary behavior in the departments sometimes, often, or very often in the last year. And 80% of women reported discrimination based on gender identity.
 
-## Inclusivity
+### Inclusivity
 
 See how respondents feel about their departments’ efforts toward inclusivity.
 
@@ -44,7 +39,7 @@ See how respondents feel about their departments’ efforts toward inclusivity.
 
 55% of respondents agree that their department is NOT currently doing enough to make the graduate program feel inclusive.
 
-## Department Climate
+### Department Climate
 
 Respondents rated their department climate based on levels of respect.
 
@@ -52,7 +47,7 @@ Respondents rated their department climate based on levels of respect.
 
 76% of respondents think their department is respectful or very respectful.
 
-## Departmental Activities
+### Departmental Activities
 
 Explore departmental activities that are currently offered and those respondents would like to see.
 
