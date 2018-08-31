@@ -79,10 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "APSA Hackathon"
+  name             : "APSA Grad Hack"
   avatar           : "profile.png"
-  bio              : "About the hackathon here"
-  location         : "Location"
+  bio              : "Improving diversity and inclusion for graduate students in political science"
+  location         : 
   employer         :
   googlescholar    : 
   email            :
