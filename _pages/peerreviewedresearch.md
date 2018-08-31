@@ -17,7 +17,7 @@ Suggestions to deal with ableism: https://chronicallyacademic.blogspot.com/
 ###Ethnic Minorities:
 Makarova, E., & Birman, D. (2015). Cultural transition and academic achievement of students from ethnic minority backgrounds: a content analysis of empirical research on acculturation. Educational Research, 57(3), 305-330.
 
-Umaa-Taylor, A. J. (2016). A post-racial society in which ethnic-racial discrimination still exists and has significant consequences for youths adjustment. Current Directions in Psychological Science, 25(2), 111-118.
+Umaña-Taylor, A. J. (2016). A post-racial society in which ethnic-racial discrimination still exists and has significant consequences for youths adjustment. Current Directions in Psychological Science, 25(2), 111-118.
 
 Chavous, T. M., Rivas-Drake, D., Smalls, C., Griffin, T., & Cogburn, C. (2008). Gender matters, too: The influences of school racial discrimination and racial identity on academic engagement outcomes among African American adolescents. Developmental psychology, 44(3), 637.
 
