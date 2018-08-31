@@ -5,9 +5,11 @@ permalink: /ourteam/
 author_profile: true
 ---
 
-## Our Team
+## Team Leaders
 ### Leah Rosenzweig (MIT, IAST), [www.leahrosenzweig.com].
 ### Yang Yang Zhou (Princeton), [www.yangyangzhou.com].
+
+## Team Members
 ### Tugba Bozcaga (MIT), [www.tugbabozcaga.com]
 ### Meredith Dost (Harvard), [mgdost@g.harvard.edu]
 ### Molly Offer-Westort (Yale), [mollyow.github.io].
