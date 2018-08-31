@@ -55,6 +55,12 @@ Explore departmental activities that are currently offered and those respondents
 
 56% of respondents would like their departments to hold regular meetings on diversity and inclusion open to all graduate students and faculty; just 20% report that their departments are currently doing this.
 
+### The Full Survey!
+
+You can explore responses to all survey questions with filters here.
+
+<iframe src="//s.crunch.io/widget/index.html#/ds/4d1629a42ef43d6f519b69c3a53332fc/row/4226c24767f64c1b8128c800fed8cc2c?viz=groupedBarPlot&cp=percent&dp=0&grp=stack" width="100%" height="600"></iframe>
+
 ## Conduct a climate survey in your own department
 
 If you are interested in using our survey as a template to design and conduct your own graduate student climate survey, you can view a copy of our survey in PDF format [here](https://github.com/APSAGradHack/APSAGradHack.github.io/blob/master/files/APSA_grad_hackathon_survey_questions.pdf). Please also see our [suggestions for departments](../suggestionsfordepartments) page for ideas of programs, policies, and resources from the APSA Hackathon team.
