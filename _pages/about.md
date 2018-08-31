@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# Example
+
+Testing an edit.
+
 This is the homepage. Edit this file in `_pages/about.md`
