@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Peer-Reviewed Resarch*"
+title: "Peer-Reviewed Research"
 permalink: /peerreviewedresearch/
 author_profile: true
 ---
