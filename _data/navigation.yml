@@ -12,11 +12,11 @@ main:
   - title: "Peer-Reviewed Research"
     url: /peerreviewedresearch/
 
-  - title: "Contact Us"
-    url: /contactus/
-
   - title: "Our Team"
     url: /ourteam/
+
+  - title: "Contact Us"
+    url: /contactus/
         
   - title: "Blog"
     url: /year-archive/
