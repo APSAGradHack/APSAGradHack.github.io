@@ -5,6 +5,5 @@ permalink: /ourteam/
 author_profile: true
 ---
 
-# This is a header
-### A smaller header
-Some text!
+## Our Team
+...[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
