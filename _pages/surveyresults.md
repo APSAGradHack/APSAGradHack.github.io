@@ -5,9 +5,11 @@ permalink: /surveyresults/
 author_profile: true
 ---
 
+Below are a series of interactive tools with which you can explore the results to the APSA Hackathon Survey for Graduate Student Diversity and Inclusion. Use the drop-down menu in the bottom left of each table to filter responses based on respondent self-description, institution type, subfield, and career experience.
+
 ## Exclusion and discrimination
 
-Respondents answered questions about their experiences with exclusionary and discriminatory behavior over the last year. Explore filters based on respondent self-description, institution type, subfield, and career experience.
+Respondents answered questions about their experiences with exclusionary and discriminatory behavior over the last year.
 
 <iframe src="//s.crunch.io/widget/index.html#/ds/832bfc02baef541d732dfe6b65d87007/row/d2855e92d44c4cb08437c5501a92c0f3?viz=groupedBarPlot&cp=percent&dp=0&grp=stack" width="100%" height="600"></iframe>
 
@@ -31,7 +33,7 @@ Respondents rated their department climate based on levels of respect.
 
 ## Departmental Activities
 
-Explore departmental activities that are currently offered and those respondents would like to see. Change filters (e.g., All respondents, Women, Men) using the drop-down menu in the bottom left corner.
+Explore departmental activities that are currently offered and those respondents would like to see.
 
 <iframe src="//s.crunch.io/widget/index.html#/ds/9d374f0447331b8396e137e70cfb307b/row/59213e62afb24f36a70ba6cfc9cc55a2?viz=groupedBarPlot&cp=percent&dp=0&grp=stack" width="100%" height="600"></iframe>
 
