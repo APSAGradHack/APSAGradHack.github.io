@@ -13,7 +13,7 @@ Here is a compilation of suggestions of ideas to implement in your department to
 2. Conduct graduate student climate surveys and share the results with faculty. Most of the time the time the roots of the problem are ignorance and unawareness: know the numbers to realize how spread discrimination and inequality is and how you might be contributing to it. There are multiple sources with standardized batteries of questions (e.g. cite, cite).
 3. Organize a meeting (open to all) to discuss issues experienced by women/minorities over drinks/at someone's house. Set an agenda for issues to discuss beforehand to make it more productive.
 4. Strengthen your efforts to recruit students from underrepresented groups: Participate in programs like the Institute for Recruitment of Teachers (https://www.andover.edu/about/outreach/irt) which helps students with applications and offers fee waivers., or the APSA programs like the Ralph Bunche Institute recruitment visit and the Minority Student Recruitment Program.
-5. Organize an introductory event for incoming student to give to ground both formal and informal rules, and make them known from the start by all.
+5.  Organize an introductory event for incoming student to give to ground both formal and informal rules, and make them known from the start by all.
 
 ## The Diversity Checklist
 
