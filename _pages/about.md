@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## APSA 2018 Diversity and Inclusion Hackathon
-
 ### What are the ways in which political science departments can create an inclusive and productive climate for all graduate students?
 
 Our work has been an attempt to brainstorm concrete actions that departments can take to enhance the graduate student experience, with specific consideration towards diversity and inclusion. The hope is that our conversation will allow students to share and discuss what different departments are currently doing to improve graduate student life in the department, both in and outside of the classroom. 
