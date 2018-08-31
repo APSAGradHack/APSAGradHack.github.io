@@ -9,6 +9,9 @@ main:
   - title: "Resources for Departments"
     url: /resourcesfordepartments/
 
+  - title: "Peer-Reviewed Research"
+    url: /peerreviewedresearch/
+
   - title: "Contact Us"
     url: /contactus/
 
