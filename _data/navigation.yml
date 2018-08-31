@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "The Climate Survey"
-    url: /surveyinfo/
-
-  - title: "Explore Survey Results"
-    url: /surveyresults/    
+    url: /survey/
 
   - title: "Resources For Grad Students"
     url: /resourcesforgrads/    
