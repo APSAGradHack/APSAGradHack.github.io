@@ -17,7 +17,7 @@ Suggestions to deal with ableism: https://chronicallyacademic.blogspot.com/
 ###Ethnic Minorities:
 Makarova, E., & Birman, D. (2015). Cultural transition and academic achievement of students from ethnic minority backgrounds: a content analysis of empirical research on acculturation. Educational Research, 57(3), 305-330.
 
-Umaña-Taylor, A. J. (2016). A post-racial society in which ethnic-racial discrimination still exists and has significant consequences for youths’ adjustment. Current Directions in Psychological Science, 25(2), 111-118.
+Umaa-Taylor, A. J. (2016). A post-racial society in which ethnic-racial discrimination still exists and has significant consequences for youths adjustment. Current Directions in Psychological Science, 25(2), 111-118.
 
 Chavous, T. M., Rivas-Drake, D., Smalls, C., Griffin, T., & Cogburn, C. (2008). Gender matters, too: The influences of school racial discrimination and racial identity on academic engagement outcomes among African American adolescents. Developmental psychology, 44(3), 637.
 
@@ -31,7 +31,7 @@ Seay, S.E., Lifton, D.E., Wuensch, K.L., Bradshaw, L.K. and McDowelle, J.O., 200
 
 Spiegler, T. and Bednarek, A., 2013. First-generation students: what we ask, what we know and what it means: an international review of the state of research. International Studies in Sociology of Education, 23(4), pp.318-337.
 
-Tate, K.A., Fouad, N.A., Marks, L.R., Young, G., Guzman, E. and Williams, E.G., 2015. Underrepresented first-generation, low-income college students’ pursuit of a graduate education: Investigating the influence of self-efficacy, coping efficacy, and family influence. Journal of Career Assessment, 23(3), pp.427-441.
+Tate, K.A., Fouad, N.A., Marks, L.R., Young, G., Guzman, E. and Williams, E.G., 2015. Underrepresented first-generation, low-income college students pursuit of a graduate education: Investigating the influence of self-efficacy, coping efficacy, and family influence. Journal of Career Assessment, 23(3), pp.427-441.
 
 #International students:
 
@@ -45,7 +45,7 @@ Yeh, C. J., & Inose, M. (2003). International students' reported English fluency
 
 Hanassab, S. (2006). Diversity, international students, and perceived discrimination: Implications for educators and counselors. Journal of Studies in International Education, 10(2), 157-172.
 
-Wadsworth, B. C., Hecht, M. L., & Jung, E. (2008). The role of identity gaps, discrimination, and acculturation in international students’ educational satisfaction in American classrooms. Communication Education, 57(1), 64-87.
+Wadsworth, B. C., Hecht, M. L., & Jung, E. (2008). The role of identity gaps, discrimination, and acculturation in international students educational satisfaction in American classrooms. Communication Education, 57(1), 64-87.
 
 ### LGBTQ:
 
@@ -60,13 +60,13 @@ Bilimoria, D., & Stewart, A. J. (2009). " Don't ask, don't tell": The academic c
 
 Beyond Bias and Barriers: Fulfilling the Potential of Women in Academic Science and Engineering. Committee on Maximizing the Potential of Women in Academic Science and Engineering, National Academy of Sciences, National Academy of Engineering, and Institute of Medicine.
 
-Baker, Maureen. 2009. “Perpetuating the Academic Gender Gap.” Atlantis: Critical Studies in Gender, Culture & Social Justice 34 (1): 37–47.
+Baker, Maureen. 2009. Perpetuating the Academic Gender Gap. Atlantis: Critical Studies in Gender, Culture & Social Justice 34 (1): 3747.
 
-Bennion, Elizabeth A. 2004. “The Importance of Peer Mentoring for Facilitating Professional and Personal Development.” PS: Political Science and Politics 37 (01): 111–13.
+Bennion, Elizabeth A. 2004. The Importance of Peer Mentoring for Facilitating Professional and Personal Development. PS: Political Science and Politics 37 (01): 11113.
 
-Blau, Francine D, Janet M Currie, Rachel T. A Croson, and Donna K Ginther. 2010. “Can Mentoring Help Female Assistant Professors? Interim Results from a Randomized Trial.” American Economic Review 100 (2): 348–52. doi:10.1257/aer.100.2.348.
+Blau, Francine D, Janet M Currie, Rachel T. A Croson, and Donna K Ginther. 2010. Can Mentoring Help Female Assistant Professors? Interim Results from a Randomized Trial. American Economic Review 100 (2): 34852. doi:10.1257/aer.100.2.348.
 
-Kay, Katty, and Claire Shipman. 2014. “The Confidence Gap.” The Atlantic, May.
+Kay, Katty, and Claire Shipman. 2014. The Confidence Gap. The Atlantic, May.
 
 Bagilhole, B. (2017). Being different is a very difficult row to hoe: Survival strategies of women academics. In Changing the Subject (pp. 15-28). Taylor & Francis.
 
