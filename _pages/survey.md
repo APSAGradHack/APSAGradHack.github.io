@@ -11,7 +11,7 @@ A group of graduate students, led by Leah Rosenzweig and Yang-Yang Zhou, conduct
 
 As of August 31, 2018, the survey has received 426 respondents. While the survey was primarily intended for graduate students in political science departments, we also invited undergraduate students, post-doctoral fellows, and faculty members to complete the survey.
 
-If you would like to complete the survey, you can do so [here](https://mit.co1.qualtrics.com/jfe/form/SV_0fepfJ9cDikYlmJ). We will perodically update this website with new survey results.
+If you would like to complete the survey, you can do so [here](https://mit.co1.qualtrics.com/jfe/form/SV_0fepfJ9cDikYlmJ). We will perodically update this website with new survey results. The charts below were created using [Crunch.io](https://crunch.io/), a survey data analysis platform.
 
 ## Demographic distribution of respondents
 
