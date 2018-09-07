@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Graduate Student Diversity & Inclusion: 
-Resources from the 2018 APSA Hackathon"
+title: "Graduate Student Diversity & Inclusion" 
+subtitle: "Resources from the 2018 APSA Hackathon"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,3 +16,5 @@ At the 2018 American Political Science Association conference, our team of 25 gr
 Our goal is to share and discuss what different departments are currently doing to improve graduate student life in the department, both in and outside of the classroom. We have also conducted a climate survey of more than 450 current and recent graduate students from political science departments across the country. On this website, you will find results from this ongoing survey and resources for graduate students and departments to help improve issues of diversity and inclusion.   
 
 This website is a work in progress so please check back regularly and contact us if you have any questions or suggestions. 
+
+###### Image credit: [Lego Grad Student](brickademics.com)
