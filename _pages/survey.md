@@ -34,13 +34,13 @@ About a third of respondents experienced exclusionary behavior in the department
 
 ### Inclusivity
 
-See how respondents feel about their departments'€™ efforts toward inclusivity.
+See how respondents feel about their departments' efforts toward inclusivity.
 
 <iframe src="//s.crunch.io/widget/index.html#/ds/b2fc2cf53ae8020de02908a7e57cd6e5/row/00005f?viz=groupedBarPlot&cp=percent&dp=0&grp=stack" width="100%" height="600"></iframe>
 
 55% of respondents agree that their department is NOT currently doing enough to make the graduate program feel inclusive.
 
-### Department Climate
+### Departmental Climate
 
 Respondents rated their departments' climate based on levels of respect.
 
