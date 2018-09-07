@@ -7,18 +7,18 @@ author_profile: true
 
 ## Team Leaders
 
-## [Leah Rosenzweig (MIT, IAST)](www.leahrosenzweig.com)
+## [Leah Rosenzweig (MIT, IAST)](https://www.leahrosenzweig.com)
 
-## [Yang-Yang Zhou (Princeton)](www.yangyangzhou.com)
+## [Yang-Yang Zhou (Princeton)](https://www.yangyangzhou.com)
 
 ## Team Members
-### [Tugba Bozcaga (MIT)](www.tugbabozcaga.com)
+### [Tugba Bozcaga (MIT)](https://www.tugbabozcaga.com)
 ### [Meredith Dost (Harvard)](mgdost@g.harvard.edu)
-### [Molly Offer-Westort (Yale)](mollyow.github.io)
-### [Kumar Ramanathan (Northwestern)](www.kumarramanathan.com)
-### [Catherine Wineinger (Rutgers)](www.catherinewineinger.com)
-### [Caglayan Baser (UIUC and Loyola University Chicago)](www.caglayanbaser.com)
-### [Juliana Restrepo Sanin (Josef Korbel School of International Studies)](jrestreposanin.com)
+### [Molly Offer-Westort (Yale)](https://mollyow.github.io)
+### [Kumar Ramanathan (Northwestern)](https://www.kumarramanathan.com)
+### [Catherine Wineinger (Rutgers)](https://www.catherinewineinger.com)
+### [Caglayan Baser (UIUC and Loyola University Chicago)](https://www.caglayanbaser.com)
+### [Juliana Restrepo Sanin (Josef Korbel School of International Studies)](https://www.jrestreposanin.com)
 
 [www.leahrosenzweig.com]: www.leahrosenzweig.com
 [www.yangyangzhou.com]: www.yangyangzhou.com
