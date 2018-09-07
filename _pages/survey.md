@@ -14,7 +14,7 @@ Please find below initial results from our survey. You can explore different que
 If you would like to complete the survey, you can do so [here](https://mit.co1.qualtrics.com/jfe/form/SV_0fepfJ9cDikYlmJ). 
 As of August 31, 2018, the survey has received 426 respondents. We will periodically update this website with new results. 
 
-If you are interested in using our survey as a template to conduct your own climate survey, you can view a copy of our survey in PDF format [here](https://github.com/APSAGradHack/APSAGradHack.github.io/blob/master/files/APSA_grad_hackathon_survey_questions.pdf). Please also see our [suggestions for departments](../suggestionsfordepartments) page for ideas of programs, policies, and resources.
+If you are interested in using our survey as a template to conduct your own climate survey, you can view a copy of our survey in PDF format [here](https://github.com/APSAGradHack/APSAGradHack.github.io/blob/master/files/APSA_grad_hackathon_survey_questions.pdf). 
 
 ###### The charts below were created using [Crunch.io](https://crunch.io/), a survey data analysis platform.
 
@@ -58,6 +58,6 @@ Explore departmental activities that are currently offered and those respondents
 
 ### The Full Survey
 
-You can explore responses to all survey questions, except the open-ended questions, with filters here.
+You can explore responses to all survey questions with filters here.
 
 <iframe src="//s.crunch.io/widget/index.html#/ds/4d1629a42ef43d6f519b69c3a53332fc/row/4226c24767f64c1b8128c800fed8cc2c?viz=groupedBarPlot&cp=percent&dp=0&grp=stack" width="100%" height="600"></iframe>
