@@ -6,11 +6,10 @@ author_profile: true
 ---
 
 ## Team Leaders
-### Leah Rosenzweig (MIT, IAST), [www.leahrosenzweig.com].
-<img src="_images/leahrosenzweig.jpeg" alt="hi" class="inline"/>
 
-### Yang Yang Zhou (Princeton), [www.yangyangzhou.com].
-<img src="_images/yyzprofessional.jpeg" alt="hi" class="inline"/>
+## Leah Rosenzweig (MIT, IAST), [www.leahrosenzweig.com]. ![leah](https://raw.githubusercontent.com/APSAGradHack/APSAGradHack.github.io/tree/master/images/leahrosenzweig.jpeg) ##
+
+### Yang-Yang Zhou (Princeton), [www.yangyangzhou.com]. ![yyz](https://raw.githubusercontent.com/APSAGradHack/APSAGradHack.github.io/tree/master/images/yyzprofessional.jpeg)
 
 ## Team Members
 ### Tugba Bozcaga (MIT), [www.tugbabozcaga.com]
