@@ -9,14 +9,12 @@ author_profile: true
 
 In the months leading up to APSA 2018, we conducted a climate survey of current and recent graduate students in political science departments. In this survey, we asked respondents about the actions that their departments are taking in terms of improving diversity and inclusion, what activities they would like to see, and their own experiences with exclusionary or hostile behavior. 
 
-Please find below initial results from our survey. You can explore different questions by clicking on the top green drop-down bar, and filter by subgroups based on respondent self-description, institution type, subfield, and career experience, using the filter function at the bottom-left of each chart. 
+Please find below initial results from our survey. You can explore different questions by clicking on the top green drop-down bar, and filter by subgroups based on respondent self-description, institution type, subfield, and career experience, using the filter function at the bottom-left of each chart. These charts are created using [Crunch.io](https://crunch.io/), a survey data analysis platform.
 
 If you would like to complete the survey, you can do so [here](https://mit.co1.qualtrics.com/jfe/form/SV_0fepfJ9cDikYlmJ). 
 As of August 31, 2018, the survey has received 426 respondents. We will periodically update this website with new results. 
 
 If you are interested in using our survey as a template to conduct your own climate survey, you can view a copy of our survey in PDF format [here](https://github.com/APSAGradHack/APSAGradHack.github.io/blob/master/files/APSA_grad_hackathon_survey_questions.pdf). 
-
-###### The charts below were created using [Crunch.io](https://crunch.io/), a survey data analysis platform.
 
 ### Demographic distribution of respondents
 
