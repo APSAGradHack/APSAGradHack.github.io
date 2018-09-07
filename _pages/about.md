@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "APSA 2018 Hackathon: Graduate Student Diversity & Inclusion"
+title: "Graduate Student Diversity & Inclusion: Resources from the 2018 APSA Hackathon"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,6 +10,8 @@ redirect_from:
 
 ### What are the ways in which political science departments can create an inclusive and productive climate for all graduate students?
 
-Our work has been an attempt to brainstorm concrete actions that departments can take to enhance the graduate student experience, with specific consideration towards diversity and inclusion. The hope is that our conversation will allow students to share and discuss what different departments are currently doing to improve graduate student life in the department, both in and outside of the classroom. 
+At the 2018 American Political Science Association conference, our team of 25 graduate students was a part of the [Hackathon event](https://connect.apsanet.org/hackathon/) led by the APSA Presidential Task Force on Women?s Advancement. We worked to brainstorm concrete actions that departments can take to enhance the graduate student experience, with specific consideration towards diversity and inclusion. 
 
-On this website, you can find the results from the APSA Hackathon Survey for Graduate Student Diversity and Inclusion, resources that may help graduate students, and policy ideas to departments that look for ideas that could render the department more inclusive for graduate students and others. This website is still a work in progress so please check back regularly!
+Our goal is to share and discuss what different departments are currently doing to improve graduate student life in the department, both in and outside of the classroom. We have also conducted a climate survey of more than 450 current and recent graduate students from political science departments across the country. On this website, you will find results from this ongoing survey and resources for graduate students and departments to help improve issues of diversity and inclusion.   
+
+This website is a work in progress so please check back regularly, and contact us if you have any questions or suggestions. 
