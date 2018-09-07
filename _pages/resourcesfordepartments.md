@@ -15,8 +15,8 @@ Here is a compilation of ideas to implement in your department to make the envir
 
 3. Strengthen efforts to **recruit and retain** students from underrepresented backgrounds. Participate in and support programs such as: 
 
-  * [The Institute for Recruitment of Teachers](https://www.andover.edu/about/outreach/irt) which helps students with applications and offers fee waivers,
-  * [The Ralph Bunche Summer Institute](https://www.apsanet.org/rbsi-programinfo) which is an annual, intensive five-week program held at Duke University, designed to introduce to the world of doctoral study in political science those undergraduate students from under-represented racial and ethnic groups.
-  * [The Minority Student Recruitment Program](https://www.apsanet.org/msrp) which identifies undergraduate students from underrepresented backgrounds who show potential for or are interested in doctoral study, and shares this recruitment information with APSA member graduate departments that enroll in the program.
+    * [The Institute for Recruitment of Teachers](https://www.andover.edu/about/outreach/irt) which helps students with applications and offers fee waivers.
+    * [The Ralph Bunche Summer Institute](https://www.apsanet.org/rbsi-programinfo) which is an annual, intensive five-week program held at Duke University, designed to introduce to the world of doctoral study in political science those undergraduate students from under-represented racial and ethnic groups.
+    * [The Minority Student Recruitment Program](https://www.apsanet.org/msrp) which identifies undergraduate students from underrepresented backgrounds who show potential for or are interested in doctoral study, and shares this recruitment information with APSA member graduate departments that enroll in the program.
 
-For more programs, please see [the APSA Diversity page](https://www.apsanet.org/diversityprograms).
+    For more programs, please see [the APSA Diversity page](https://www.apsanet.org/diversityprograms).
