@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Graduate Student Diversity & Inclusion" 
-subtitle: "Resources from the 2018 APSA Hackathon"
+title: "Graduate Student Diversity & Inclusion:
+Resources from the 2018 APSA Hackathon"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
