@@ -6,10 +6,8 @@ author_profile: true
 ---
 
 ## Team Leaders
-
-## [Leah Rosenzweig (MIT, IAST)](https://www.leahrosenzweig.com)
-
-## [Yang-Yang Zhou (Princeton)](https://www.yangyangzhou.com)
+### [Leah Rosenzweig (MIT, IAST)](https://www.leahrrosenzweig.com)
+### [Yang-Yang Zhou (Princeton)](https://www.yangyangzhou.com)
 
 ## Team Members
 ### [Tugba Bozcaga (MIT)](https://www.tugbabozcaga.com)
@@ -20,7 +18,7 @@ author_profile: true
 ### [Caglayan Baser (UIUC and Loyola University Chicago)](https://www.caglayanbaser.com)
 ### [Juliana Restrepo Sanin (Josef Korbel School of International Studies)](https://www.jrestreposanin.com)
 
-[www.leahrosenzweig.com]: www.leahrosenzweig.com
+[www.leahrrosenzweig.com]: www.leahrrosenzweig.com
 [www.yangyangzhou.com]: www.yangyangzhou.com
 [www.tugbabozcaga.com]: www.tugbabozcaga.com
 [mgdost@g.harvard.edu]: mgdost@g.harvard.edu
