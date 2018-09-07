@@ -11,7 +11,7 @@ author_profile: true
 
 ## Team Members
 ### [Tugba Bozcaga (MIT)](https://www.tugbabozcaga.com)
-### [Meredith Dost (Harvard)](mgdost@g.harvard.edu)
+### [Meredith Dost (Harvard)](mailto:mgdost@g.harvard.edu)
 ### [Molly Offer-Westort (Yale)](https://mollyow.github.io)
 ### [Kumar Ramanathan (Northwestern)](https://www.kumarramanathan.com)
 ### [Catherine Wineinger (Rutgers)](https://www.catherinewineinger.com)
