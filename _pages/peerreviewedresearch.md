@@ -9,7 +9,7 @@ Learn more about the following issues relevant to the graduate student experienc
 
 <details>
   <summary>
-    **Abelism**
+    <bold> Abelism <bold>
   </summary>
 <ul>
   <li> Brown, Nicole and Leigh, Jennifer S (2018) Ableism in Academia: Where are the disabled and ill academics? Disability and Society, 33 (6) https://www.tandfonline.com/doi/full/10.1080/09687599.2018.1455627 </li>
@@ -21,7 +21,7 @@ Learn more about the following issues relevant to the graduate student experienc
 ### Ethnic Minorities:
 Makarova, E., & Birman, D. (2015). Cultural transition and academic achievement of students from ethnic minority backgrounds: a content analysis of empirical research on acculturation. Educational Research, 57(3), 305-330.
 
-Umaña-Taylor, A. J. (2016). A post-racial society in which ethnic-racial discrimination still exists and has significant consequences for youths adjustment. Current Directions in Psychological Science, 25(2), 111-118.
+Uma-Taylor, A. J. (2016). A post-racial society in which ethnic-racial discrimination still exists and has significant consequences for youths adjustment. Current Directions in Psychological Science, 25(2), 111-118.
 
 Chavous, T. M., Rivas-Drake, D., Smalls, C., Griffin, T., & Cogburn, C. (2008). Gender matters, too: The influences of school racial discrimination and racial identity on academic engagement outcomes among African American adolescents. Developmental psychology, 44(3), 637.
 
