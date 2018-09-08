@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Contact Us"
 permalink: /contactus/
 author_profile: true
