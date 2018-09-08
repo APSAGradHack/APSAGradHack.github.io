@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Peer-Reviewed Research"
 permalink: /peerreviewedresearch/
 author_profile: true

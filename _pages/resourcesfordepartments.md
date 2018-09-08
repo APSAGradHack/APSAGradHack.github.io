@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Resources for Departments"
 permalink: /resourcesfordepartments/
 author_profile: true

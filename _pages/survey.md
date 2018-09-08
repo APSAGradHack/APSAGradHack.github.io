@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Climate Survey"
 permalink: /survey/
 author_profile: true

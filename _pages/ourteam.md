@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Our Team"
 permalink: /ourteam/
 author_profile: true
