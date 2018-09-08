@@ -5,10 +5,10 @@ permalink: /contactus/
 author_profile: true
 ---
 
-**Leah Rosenzweig**  
-Research Fellow
-Institute for Advanced Study in Toulouse
-Email: [leahrosenzweig@gmail.com](mailto:leahrosenzweig@gmail.com)
+**Leah Rosenzweig**     
+Research Fellow  
+Institute for Advanced Study in Toulouse  
+Email: [leahrosenzweig@gmail.com](mailto:leahrosenzweig@gmail.com)  
 
 
 **Yang-Yang Zhou**  
