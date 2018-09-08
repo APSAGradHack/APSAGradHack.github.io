@@ -67,12 +67,12 @@ Learn more about the following issues relevant to the graduate student experienc
     <b>  Women </b>
   </summary>
 <ul>
-  <li> Beyond Bias and Barriers: Fulfilling the Potential of Women in Academic Science and Engineering. Committee on Maximizing the Potential of Women in Academic Science and Engineering, National Academy of Sciences, National Academy of Engineering, and Institute of Medicine. </li>
+  <li> <a href="https://www.nap.edu/catalog/11741/beyond-bias-and-barriers-fulfilling-the-potential-of-women-in">Beyond Bias and Barriers: Fulfilling the Potential of Women in Academic Science and Engineering. Committee on Maximizing the Potential of Women in Academic Science and Engineering, National Academy of Sciences, National Academy of Engineering, and Institute of Medicine.</a> </li>
   <li> Bagilhole, B. (2017). Being different is a very difficult row to hoe: Survival strategies of women academics. In Changing the Subject (pp. 15-28). Taylor & Francis. </li>
-  <li>  Baker, Maureen. 2009. Perpetuating the Academic Gender Gap. Atlantis: Critical Studies in Gender, Culture & Social Justice 34 (1): 3747.</li>  
-  <li> Bennion, Elizabeth A. 2004. The Importance of Peer Mentoring for Facilitating Professional and Personal Development. PS: Political Science and Politics 37 (01): 11113.</li>  
-  <li> Blau, Francine D, Janet M Currie, Rachel T. A Croson, and Donna K Ginther. 2010. Can Mentoring Help Female Assistant Professors? Interim Results from a Randomized Trial. American Economic Review 100 (2): 34852. doi:10.1257/aer.100.2.348. </li>  
-  <li> Kay, Katty, and Claire Shipman. 2014. The Confidence Gap. The Atlantic, May. </li>  </ul>
+  <li>  Baker, Maureen. 2009. <a href="http://journals.msvu.ca/index.php/atlantis/article/view/217">Perpetuating the Academic Gender Gap.</a> Atlantis: Critical Studies in Gender, Culture & Social Justice 34 (1): 3747.</li>  
+  <li> Bennion, Elizabeth A. 2004. <a href="https://www.jstor.org/stable/4488784">The Importance of Peer Mentoring for Facilitating Professional and Personal Development.</a> PS: Political Science and Politics 37 (01): 11113.</li>  
+  <li> Blau, Francine D, Janet M Currie, Rachel T. A Croson, and Donna K Ginther. 2010. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.100.2.348">Can Mentoring Help Female Assistant Professors? Interim Results from a Randomized Trial.</a> American Economic Review 100 (2): 34852. doi:10.1257/aer.100.2.348. </li>  
+  <li> Kay, Katty, and Claire Shipman. 2014. <a href="https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/">The Confidence Gap.</a> The Atlantic, May 2014. </li>  </ul>
 </details>
 
 <details>
@@ -80,7 +80,7 @@ Learn more about the following issues relevant to the graduate student experienc
     <b>  General </b>
   </summary>
 <ul>
-  <li> Gardner, S. K. (2008). Fitting the mold of graduate school: A qualitative study of socialization in doctoral education. Innovative Higher Education, 33(2), 125-138. : Results highlighted a disparate experience for women, students of color, students with families, part-time students, and older students.</li>  </ul>
+  <li> Gardner, S. K. (2008). <a href="https://link.springer.com/article/10.1007/s10755-008-9068-x">Fitting the mold of graduate school: A qualitative study of socialization in doctoral education.</a> Innovative Higher Education, 33(2), 125-138. : Results highlighted a disparate experience for women, students of color, students with families, part-time students, and older students.</li>  </ul>
 </details>
 
 
