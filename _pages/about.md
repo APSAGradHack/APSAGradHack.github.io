@@ -17,4 +17,4 @@ Our goal is to share and discuss what different departments are currently doing 
 
 This website is a work in progress so please check back regularly and contact us if you have any questions or suggestions. 
 
-###### Image credit: [Lego Grad Student](https://brickademics.com/)
+###### Images credit: [Lego Grad Student](https://brickademics.com/)

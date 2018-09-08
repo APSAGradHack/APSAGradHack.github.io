@@ -18,16 +18,19 @@ Learn more about the following issues relevant to the graduate student experienc
   </ul>
 </details>
 
-### Ethnic Minorities:
-Makarova, E., & Birman, D. (2015). Cultural transition and academic achievement of students from ethnic minority backgrounds: a content analysis of empirical research on acculturation. Educational Research, 57(3), 305-330.
+<details>
+  <summary>
+    <b> Ethnic and Racial Minorities </b>
+  </summary>
+<ul>
+  <li> Chavous, T. M., Rivas-Drake, D., Smalls, C., Griffin, T., & Cogburn, C. (2008). <a href="http://psycnet.apa.org/buy/2008-05171-002">Gender matters, too: The influences of school racial discrimination and racial identity on academic engagement outcomes among African American adolescents.</a> Developmental psychology, 44(3), 637. </li>
+  <li> Makarova, E., & Birman, D. (2015). <a href="https://www.tandfonline.com/doi/abs/10.1080/00131881.2015.1058099">Cultural transition and academic achievement of students from ethnic minority backgrounds: a content analysis of empirical research on acculturation.</a> Educational Research, 57(3), 305-330. </li>
+  <li> Schmader, T., Major, B., & Gramzow, R. H. (2001). <a href="https://spssi.onlinelibrary.wiley.com/doi/abs/10.1111/0022-4537.00203">Coping with ethnic stereotypes in the academic domain: Perceived injustice and psychological disengagement.</a> Journal of Social Issues, 57(1), 93-111. </li> 
+  <li> Solorzano, D., Ceja, M., & Yosso, T. (2000). <a href="https://www.jstor.org/stable/2696265">Critical race theory, racial microaggressions, and campus racial climate: The experiences of African American college students.</a> Journal of Negro Education, 60-73. </li> 
+  <li> Uma-Taylor, A. J. (2016). <a href="http://journals.sagepub.com/doi/abs/10.1177/0963721415627858">A post-racial society in which ethnic-racial discrimination still exists and has significant consequences for youths adjustment.</a> Current Directions in Psychological Science, 25(2), 111-118. </li> 
+  </ul>
+</details>
 
-Uma-Taylor, A. J. (2016). A post-racial society in which ethnic-racial discrimination still exists and has significant consequences for youths adjustment. Current Directions in Psychological Science, 25(2), 111-118.
-
-Chavous, T. M., Rivas-Drake, D., Smalls, C., Griffin, T., & Cogburn, C. (2008). Gender matters, too: The influences of school racial discrimination and racial identity on academic engagement outcomes among African American adolescents. Developmental psychology, 44(3), 637.
-
-Schmader, T., Major, B., & Gramzow, R. H. (2001). Coping with ethnic stereotypes in the academic domain: Perceived injustice and psychological disengagement. Journal of Social Issues, 57(1), 93-111.
-
-Solorzano, D., Ceja, M., & Yosso, T. (2000). Critical race theory, racial microaggressions, and campus racial climate: The experiences of African American college students. Journal of Negro Education, 60-73.
 
 ### First-Generation College/Graduate Students:
 
