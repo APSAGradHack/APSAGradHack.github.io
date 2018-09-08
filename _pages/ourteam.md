@@ -15,6 +15,7 @@ author_profile: true
 [Meredith Dost (Harvard)](mailto:mgdost@g.harvard.edu)  
 [Vladimir Enrique Medenica (University of Chicago)](https://www.vladmedenica.com/)  
 [Rachel Esplin Odell (MIT)](https://polisci.mit.edu/people/rachel-esplin-odell)  
+[Ben Fifield (Princeton, Facebook)](http://www.benfifield.com/)  
 [Marcus Johnson (CUNY Baruch)](http://www.baruch.cuny.edu/wsas/academics/political_science/Marcus_Johnson.htm)  
 [Shiro Kuriwaki (Harvard)](http://www.shirokuriwaki.com)  
 [Eric Min (UCLA)](https://www.ericmin.com/)  
