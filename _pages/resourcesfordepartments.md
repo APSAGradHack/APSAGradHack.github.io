@@ -38,14 +38,15 @@ Here is a compilation of ideas to implement in your department to make the envir
 ## Other Climate Surveys
 
 + [MIT](http://web.mit.edu/surveys/casatips/sources.html) Community Attitudes on Sexual Assault (CASA) Survey
-+ [Princeton University}(https://sexualmisconduct.princeton.edu/reports) We Speak Survey Title IX Reports
++ [Princeton University](https://sexualmisconduct.princeton.edu/reports) We Speak Survey Title IX Reports
 + [University of California](http://campusclimate.ucop.edu/results/index.html) Campus Climate Survey
 + [University of Chicago](https://climatesurvey.uchicago.edu/) Climate Survey
-+ [University of Pennsylvania](http://www.upenn.edu/ir/aau-campus-climate-survey.html) Campus Climate Survey on Sexual Assault and Sexual Misconduct
++ [University of Pennsylvania](http://www.upenn.edu/ir/aau-campus-climate-survey.html) Campus Climate Survey on Sexual Assault and  Misconduct
 
 
 ## Other Resources
 
++ [APSA Status Committees](https://www.apsanet.org/status-committees): professional development of political science scholars from underrepresented groups 
 + [Culture of Respect](https://cultureofrespect.org/): research and tools to prevent campus sexual assault
 + [Project Callisto](https://www.projectcallisto.org/): tools for reporting sexual assault and harassment
 + [Gender bias calculator](https://www.tomforth.co.uk/genderbias/) for recommendation letters
