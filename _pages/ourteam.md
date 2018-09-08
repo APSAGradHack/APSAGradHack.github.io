@@ -10,7 +10,7 @@ author_profile: true
 [Yang-Yang Zhou (Princeton)](https://www.yangyangzhou.com)  
 
 ## Team Members
-[Caglayan Baser (UIUC and Loyola University Chicago)](https://www.caglayanbaser.com)  
+[Caglayan Baser (University of Illinois Urbana-Champaign, Loyola University Chicago)](https://www.caglayanbaser.com)  
 [Tugba Bozcaga (MIT)](https://www.tugbabozcaga.com)  
 [Meredith Dost (Harvard)](mailto:mgdost@g.harvard.edu)  
 [Vladimir Enrique Medenica (University of Chicago)](https://www.vladmedenica.com/)  
