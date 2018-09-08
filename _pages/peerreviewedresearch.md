@@ -34,9 +34,9 @@ Learn more about the following issues relevant to the graduate student experienc
     <b> First-Generation College/Graduate Students </b>
   </summary>
 <ul>
-  <li> Seay, S.E., Lifton, D.E., Wuensch, K.L., Bradshaw, L.K. and McDowelle, J.O., 2008. First-generation graduate students and attrition risks. The Journal of Continuing Higher Education, 56(3), pp.11-25.</li>
-  <li> Spiegler, T. and Bednarek, A., 2013. First-generation students: what we ask, what we know and what it means: an international review of the state of research. International Studies in Sociology of Education, 23(4), pp.318-337. </li>
-  <li> Tate, K.A., Fouad, N.A., Marks, L.R., Young, G., Guzman, E. and Williams, E.G., 2015. Underrepresented first-generation, low-income college students pursuit of a graduate education: Investigating the influence of self-efficacy, coping efficacy, and family influence. Journal of Career Assessment, 23(3), pp.427-441.</li>  </ul>
+  <li> Seay, S.E., Lifton, D.E., Wuensch, K.L., Bradshaw, L.K. and McDowelle, J.O., 2008. <a href="https://www.tandfonline.com/doi/abs/10.1080/07377366.2008.10400158">First-generation graduate students and attrition risks.</a> The Journal of Continuing Higher Education, 56(3), pp.11-25.</li>
+  <li> Spiegler, T. and Bednarek, A., 2013. <a href="https://www.tandfonline.com/doi/abs/10.1080/09620214.2013.815441">First-generation students: what we ask, what we know and what it means: an international review of the state of research.</a> International Studies in Sociology of Education, 23(4), pp.318-337. </li>
+  <li> Tate, K.A., Fouad, N.A., Marks, L.R., Young, G., Guzman, E. and Williams, E.G., 2015. <a href="http://journals.sagepub.com/doi/10.1177/1069072714547498">Underrepresented first-generation, low-income college students pursuit of a graduate education: Investigating the influence of self-efficacy, coping efficacy, and family influence.</a> Journal of Career Assessment, 23(3), pp.427-441.</li>  </ul>
 </details>
 
 <details>
@@ -44,12 +44,12 @@ Learn more about the following issues relevant to the graduate student experienc
     <b>  International students </b>
   </summary>
 <ul>
-  <li> Hanassab, S. (2006). Diversity, international students, and perceived discrimination: Implications for educators and counselors. Journal of Studies in International Education, 10(2), 157-172.</li>
-  <li> Lee, J. J., & Rice, C. (2007). Welcome to America? International student perceptions of discrimination. Higher education, 53(3), 381-409. </li>
-  <li> Poyrazli, S., & Grahame, K. M. (2007). Barriers to adjustment: Needs of international students within a semi-urban campus community. Journal of Instructional Psychology, 34(1), 28.</li> 
-  <li> Poyrazli, S., & Lopez, M. D. (2007). An exploratory study of perceived discrimination and homesickness: A comparison of international students and American students. The Journal of Psychology, 141(3), 263-280.</li>   
-  <li>Wadsworth, B. C., Hecht, M. L., & Jung, E. (2008). The role of identity gaps, discrimination, and acculturation in international students educational satisfaction in American classrooms. Communication Education, 57(1), 64-87.</li>   
-  <li> Yeh, C. J., & Inose, M. (2003). International students' reported English fluency, social support satisfaction, and social connectedness as predictors of acculturative stress. Counselling Psychology Quarterly, 16(1), 15-28.</li> </ul>
+  <li> Hanassab, S. (2006). <a href="http://jsi.sagepub.com/content/10/2/157.full.pdf">Diversity, international students, and perceived discrimination: Implications for educators and counselors.</a> Journal of Studies in International Education, 10(2), 157-172.</li>
+  <li> Lee, J. J., & Rice, C. (2007). <a href="https://link.springer.com/article/10.1007/s10734-005-4508-3">Welcome to America? International student perceptions of discrimination.</a> Higher education, 53(3), 381-409. </li>
+  <li> Poyrazli, S., & Grahame, K. M. (2007). <a href="https://eric.ed.gov/?id=EJ761254">Barriers to adjustment: Needs of international students within a semi-urban campus community.</a> Journal of Instructional Psychology, 34(1), 28.</li> 
+  <li> Poyrazli, S., & Lopez, M. D. (2007). <a href="https://www.tandfonline.com/doi/pdf/10.3200/JRLP.141.3.263-280">An exploratory study of perceived discrimination and homesickness: A comparison of international students and American students.</a> The Journal of Psychology, 141(3), 263-280.</li>   
+  <li>Wadsworth, B. C., Hecht, M. L., & Jung, E. (2008).  <a href="https://www.tandfonline.com/doi/abs/10.1080/03634520701668407">The role of identity gaps, discrimination, and acculturation in international students educational satisfaction in American classrooms.</a> Communication Education, 57(1), 64-87.</li>   
+  <li> Yeh, C. J., & Inose, M. (2003). <a href="https://www.tandfonline.com/doi/abs/10.1080/0951507031000114058">International students' reported English fluency, social support satisfaction, and social connectedness as predictors of acculturative stress.</a> Counselling Psychology Quarterly, 16(1), 15-28.</li> </ul>
 </details>
 
 <details>
@@ -57,9 +57,9 @@ Learn more about the following issues relevant to the graduate student experienc
     <b>  LGBTQIA+ </b>
   </summary>
 <ul>
-  <li> Bilimoria, D., & Stewart, A. J. (2009). " Don't ask, don't tell": The academic climate for lesbian, gay, bisexual, and transgender faculty in science and engineering. NWSA Journal, 85-103. </li>
-  <li> Schneider, M. S., & Dimito, A. (2010). Factors influencing the career and academic choices of lesbian, gay, bisexual, and transgender people. Journal of Homosexuality, 57(10), 1355-1369.https://escholarship.org/uc/item/03m1g5sg </li>
-  <li> Sears, B., & Mallory, C. (2011). Documented evidence of employment discrimination & its effects on LGBT people.</li>  </ul>
+  <li> Bilimoria, D., & Stewart, A. J. (2009). <a href="http://eige.europa.eu/rdc/library/resource/ARI_ALEAC07875366">"Don't ask, don't tell": The academic climate for lesbian, gay, bisexual, and transgender faculty in science and engineering.</a> NWSA Journal, 85-103. </li>
+  <li> Schneider, M. S., & Dimito, A. (2010). <a href="https://www.ncbi.nlm.nih.gov/pubmed/21058150">Factors influencing the career and academic choices of lesbian, gay, bisexual, and transgender people.</a> Journal of Homosexuality, 57(10), 1355-1369.https://escholarship.org/uc/item/03m1g5sg </li>
+  <li> Sears, B., & Mallory, C. (2011). <a href="https://williamsinstitute.law.ucla.edu/research/discrimination/documented-evidence-of-employment-discrimination-its-effects-on-lgbt-people/">Documented evidence of employment discrimination & its effects on LGBT people.</a> </li>  </ul>
 </details>
 
 <details>
@@ -83,7 +83,4 @@ Learn more about the following issues relevant to the graduate student experienc
   <li> Gardner, S. K. (2008). Fitting the mold of graduate school: A qualitative study of socialization in doctoral education. Innovative Higher Education, 33(2), 125-138. : Results highlighted a disparate experience for women, students of color, students with families, part-time students, and older students.</li>  </ul>
 </details>
 
-<br>
-
-![LGS2](https://github.com/APSAGradHack/APSAGradHack.github.io/raw/master/images/LGS2.png "Passing by a room of socializing cohort members, the grad student of color is left out of the conversation.")
 
