@@ -40,7 +40,7 @@ Here is a compilation of ideas to implement in your department to make the envir
 + [Culture of Respect](https://cultureofrespect.org/): research and tools to prevent campus sexual assault
 + [Project Callisto](https://www.projectcallisto.org/): tools for reporting sexual assault and harassment
 + [Gender bias calculator](https://www.tomforth.co.uk/genderbias/) for recommendation letters
-+ [Suggestions to deal with ableism](https://chronicallyacademic.blogspot.com)
++ [Chronically Academic](https://chronicallyacademic.blogspot.com): resources for academics with disabilities  
 + [Visions in Methodology](http://visionsinmethodology.org/resources/): resources for women with Methodology focus
 + [Journeys for World Politics](http://www.saramitchell.org/journeys.html): resources for women with International Relations focus
 
