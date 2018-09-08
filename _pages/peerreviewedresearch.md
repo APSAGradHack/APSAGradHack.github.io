@@ -18,6 +18,8 @@ Learn more about the following issues relevant to the graduate student experienc
   </ul>
 </details>
 
+ <br>
+
 <details>
   <summary>
     <b> Ethnic and Racial Minorities </b>
