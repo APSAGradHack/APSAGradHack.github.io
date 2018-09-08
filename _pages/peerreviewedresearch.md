@@ -6,9 +6,15 @@ author_profile: true
 ---
 
 Learn more about the following issues relevant to the graduate student experience, and reference them in meetings, discussions, and reports. 
-==============
 
-## **_Ableism_.
+<details>
+  <summary>
+    Abelism
+  </summary>
+<ul>
+  <li> .</li>
+  <li> . </li>
+</ul>  </details>
 
 Brown, Nicole and Leigh, Jennifer S (2018) Ableism in Academia: Where are the disabled and ill academics? Disability and Society, 33 (6) https://www.tandfonline.com/doi/full/10.1080/09687599.2018.1455627 
 
