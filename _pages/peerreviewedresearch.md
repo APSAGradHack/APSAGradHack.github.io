@@ -33,36 +33,47 @@ Learn more about the following issues relevant to the graduate student experienc
   </ul>
 </details>
 
+<br>
 
-### First-Generation College/Graduate Students:
+<details>
+  <summary>
+    <b> First-Generation College/Graduate Students </b>
+  </summary>
+<ul>
+  <li> Seay, S.E., Lifton, D.E., Wuensch, K.L., Bradshaw, L.K. and McDowelle, J.O., 2008. First-generation graduate students and attrition risks. The Journal of Continuing Higher Education, 56(3), pp.11-25.</li>
+  <li> Spiegler, T. and Bednarek, A., 2013. First-generation students: what we ask, what we know and what it means: an international review of the state of research. International Studies in Sociology of Education, 23(4), pp.318-337. </li>
+  <li> Tate, K.A., Fouad, N.A., Marks, L.R., Young, G., Guzman, E. and Williams, E.G., 2015. Underrepresented first-generation, low-income college students pursuit of a graduate education: Investigating the influence of self-efficacy, coping efficacy, and family influence. Journal of Career Assessment, 23(3), pp.427-441.</li> 
+    </ul>
+</details>
 
-Seay, S.E., Lifton, D.E., Wuensch, K.L., Bradshaw, L.K. and McDowelle, J.O., 2008. First-generation graduate students and attrition risks. The Journal of Continuing Higher Education, 56(3), pp.11-25.
+<br>
 
-Spiegler, T. and Bednarek, A., 2013. First-generation students: what we ask, what we know and what it means: an international review of the state of research. International Studies in Sociology of Education, 23(4), pp.318-337.
+<details>
+  <summary>
+    <b>  International students </b>
+  </summary>
+<ul>
+  <li> Hanassab, S. (2006). Diversity, international students, and perceived discrimination: Implications for educators and counselors. Journal of Studies in International Education, 10(2), 157-172.</li>
+  <li> Lee, J. J., & Rice, C. (2007). Welcome to America? International student perceptions of discrimination. Higher education, 53(3), 381-409. </li>
+  <li> Poyrazli, S., & Grahame, K. M. (2007). Barriers to adjustment: Needs of international students within a semi-urban campus community. Journal of Instructional Psychology, 34(1), 28.</li> 
+  <li> Poyrazli, S., & Lopez, M. D. (2007). An exploratory study of perceived discrimination and homesickness: A comparison of international students and American students. The Journal of Psychology, 141(3), 263-280.</li>   
+  <li>Wadsworth, B. C., Hecht, M. L., & Jung, E. (2008). The role of identity gaps, discrimination, and acculturation in international students educational satisfaction in American classrooms. Communication Education, 57(1), 64-87.</li>   
+  <li> Yeh, C. J., & Inose, M. (2003). International students' reported English fluency, social support satisfaction, and social connectedness as predictors of acculturative stress. Counselling Psychology Quarterly, 16(1), 15-28.</li> 
+    </ul>
+</details>
 
-Tate, K.A., Fouad, N.A., Marks, L.R., Young, G., Guzman, E. and Williams, E.G., 2015. Underrepresented first-generation, low-income college students pursuit of a graduate education: Investigating the influence of self-efficacy, coping efficacy, and family influence. Journal of Career Assessment, 23(3), pp.427-441.
+<br>
 
-### International students:
-
-Lee, J. J., & Rice, C. (2007). Welcome to America? International student perceptions of discrimination. Higher education, 53(3), 381-409.
-
-Poyrazli, S., & Grahame, K. M. (2007). Barriers to adjustment: Needs of international students within a semi-urban campus community. Journal of Instructional Psychology, 34(1), 28.
-
-Poyrazli, S., & Lopez, M. D. (2007). An exploratory study of perceived discrimination and homesickness: A comparison of international students and American students. The Journal of Psychology, 141(3), 263-280.
-
-Yeh, C. J., & Inose, M. (2003). International students' reported English fluency, social support satisfaction, and social connectedness as predictors of acculturative stress. Counselling Psychology Quarterly, 16(1), 15-28.
-
-Hanassab, S. (2006). Diversity, international students, and perceived discrimination: Implications for educators and counselors. Journal of Studies in International Education, 10(2), 157-172.
-
-Wadsworth, B. C., Hecht, M. L., & Jung, E. (2008). The role of identity gaps, discrimination, and acculturation in international students educational satisfaction in American classrooms. Communication Education, 57(1), 64-87.
-
-### LGBTQ:
-
-Sears, B., & Mallory, C. (2011). Documented evidence of employment discrimination & its effects on LGBT people.
-
-Schneider, M. S., & Dimito, A. (2010). Factors influencing the career and academic choices of lesbian, gay, bisexual, and transgender people. Journal of Homosexuality, 57(10), 1355-1369.https://escholarship.org/uc/item/03m1g5sg 
-
-Bilimoria, D., & Stewart, A. J. (2009). " Don't ask, don't tell": The academic climate for lesbian, gay, bisexual, and transgender faculty in science and engineering. NWSA Journal, 85-103. 
+<details>
+  <summary>
+    <b>  LGBTQIA+ </b>
+  </summary>
+<ul>
+  <li> Bilimoria, D., & Stewart, A. J. (2009). " Don't ask, don't tell": The academic climate for lesbian, gay, bisexual, and transgender faculty in science and engineering. NWSA Journal, 85-103. </li>
+  <li> Schneider, M. S., & Dimito, A. (2010). Factors influencing the career and academic choices of lesbian, gay, bisexual, and transgender people. Journal of Homosexuality, 57(10), 1355-1369.https://escholarship.org/uc/item/03m1g5sg </li>
+  <li> Sears, B., & Mallory, C. (2011). Documented evidence of employment discrimination & its effects on LGBT people.</li> 
+    </ul>
+</details>
 
 
 ### Women:
@@ -79,11 +90,6 @@ Kay, Katty, and Claire Shipman. 2014. The Confidence Gap. The Atlantic, May.
 
 Bagilhole, B. (2017). Being different is a very difficult row to hoe: Survival strategies of women academics. In Changing the Subject (pp. 15-28). Taylor & Francis.
 
-See Visions in Methodology http://visionsinmethodology.org/resources/ and Journeys for World Politics http://www.saramitchell.org/journeys.html for more resources on women discrimination. They have many useful resources (such as this reading list: http://www.saramitchell.org/journeysbibliography.pdf )
-
-Gender bias calculator in recommendation letters: https://www.tomforth.co.uk/genderbias/ 
 
 ### General:
 Gardner, S. K. (2008). Fitting the mold of graduate school: A qualitative study of socialization in doctoral education. Innovative Higher Education, 33(2), 125-138. : Results highlighted a disparate experience for women, students of color, students with families, part-time students, and older students
-
-*Please contact us for additional source suggestions.
