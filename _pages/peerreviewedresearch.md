@@ -9,7 +9,7 @@ Learn more about the following issues relevant to the graduate student experienc
 
 <details>
   <summary>
-    <bold> Abelism <bold>
+    <b> Abelism </b>
   </summary>
 <ul>
   <li> Brown, Nicole and Leigh, Jennifer S (2018) Ableism in Academia: Where are the disabled and ill academics? Disability and Society, 33 (6) https://www.tandfonline.com/doi/full/10.1080/09687599.2018.1455627 </li>
