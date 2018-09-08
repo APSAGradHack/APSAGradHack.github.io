@@ -5,7 +5,11 @@ permalink: /peerreviewedresearch/
 author_profile: true
 ---
 
-### Ableism:
+Learn more about the following issues relevant to the graduate student experience, and reference them in meetings, discussions, and reports. 
+==============
+
+## **_Ableism_.
+
 Brown, Nicole and Leigh, Jennifer S (2018) Ableism in Academia: Where are the disabled and ill academics? Disability and Society, 33 (6) https://www.tandfonline.com/doi/full/10.1080/09687599.2018.1455627 
 
 Hannam-Swain, S. (2018). The additional labour of a disabled PhD student. Disability & Society, 33(1), 138-142. https://www.tandfonline.com/doi/full/10.1080/09687599.2017.1375698?src=recsys 
