@@ -35,6 +35,15 @@ Here is a compilation of ideas to implement in your department to make the envir
 7. When having faculty meetings about diversity issues, department climate, or more sensitive and specific issues like harassment, consider **inviting a third party individual** from outside of the department (possibly from Title IX office or the Dean of Diversity office) to serve as a more objective discussion facilitator.
 
 
+## Other Climate Surveys
+
++ [MIT](http://web.mit.edu/surveys/casatips/sources.html) Community Attitudes on Sexual Assault (CASA) Survey
++ [Princeton University}(https://sexualmisconduct.princeton.edu/reports) We Speak Survey Title IX Reports
++ [University of California](http://campusclimate.ucop.edu/results/index.html) Campus Climate Survey
++ [University of Chicago](https://climatesurvey.uchicago.edu/) Climate Survey
++ [University of Pennsylvania](http://www.upenn.edu/ir/aau-campus-climate-survey.html) Campus Climate Survey on Sexual Assault and Sexual Misconduct
+
+
 ## Other Resources
 
 + [Culture of Respect](https://cultureofrespect.org/): research and tools to prevent campus sexual assault
