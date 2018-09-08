@@ -5,8 +5,13 @@ permalink: /contactus/
 author_profile: true
 ---
 
+**Leah Rosenzweig**  
+Research Fellow
+Institute for Advanced Study in Toulouse
+Email: [leahrosenzweig@gmail.com](mailto:leahrosenzweig@gmail.com)
+
+
 **Yang-Yang Zhou**  
-Team Leader  
 Ph.D. Candidate  
 Department of Politics  
 Princeton University  

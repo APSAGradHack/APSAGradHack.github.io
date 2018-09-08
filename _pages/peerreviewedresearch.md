@@ -72,7 +72,9 @@ Learn more about the following issues relevant to the graduate student experienc
   <li>  Baker, Maureen. 2009. <a href="http://journals.msvu.ca/index.php/atlantis/article/view/217">Perpetuating the Academic Gender Gap.</a> Atlantis: Critical Studies in Gender, Culture & Social Justice 34 (1): 3747.</li>  
   <li> Bennion, Elizabeth A. 2004. <a href="https://www.jstor.org/stable/4488784">The Importance of Peer Mentoring for Facilitating Professional and Personal Development.</a> PS: Political Science and Politics 37 (01): 11113.</li>  
   <li> Blau, Francine D, Janet M Currie, Rachel T. A Croson, and Donna K Ginther. 2010. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.100.2.348">Can Mentoring Help Female Assistant Professors? Interim Results from a Randomized Trial.</a> American Economic Review 100 (2): 34852. doi:10.1257/aer.100.2.348. </li>  
-  <li> Kay, Katty, and Claire Shipman. 2014. <a href="https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/">The Confidence Gap.</a> The Atlantic, May 2014. </li>  </ul>
+  <li> Kay, Katty, and Claire Shipman. 2014. <a href="https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/">The Confidence Gap.</a> The Atlantic, May 2014. </li>  
+  <li>Shames, S., & Wise, T. (2017). <a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/gender-diversity-and-methods-in-political-science-a-theory-of-selection-and-survival-biases/9AB3B75F3F6E47C3650ECFFB4872E69F">Gender, Diversity, and Methods in Political Science: A Theory of Selection and Survival Biases.</a> PS: Political Science & Politics, 50(3), 811-823.  </li> 
+  <li> Teele, D., & Thelen, K. (2017). <a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/gender-in-the-journals-publication-patterns-in-political-science/07452099DCDCBF378D233FF402C97DEA">Gender in the Journals: Publication Patterns in Political Science.</a> PS: Political Science & Politics, 50(2), 433-447. </li> </ul>
 </details>
 
 <details>
