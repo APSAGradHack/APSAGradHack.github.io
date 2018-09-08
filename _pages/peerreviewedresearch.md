@@ -83,5 +83,7 @@ Learn more about the following issues relevant to the graduate student experienc
   <li> Gardner, S. K. (2008). Fitting the mold of graduate school: A qualitative study of socialization in doctoral education. Innovative Higher Education, 33(2), 125-138. : Results highlighted a disparate experience for women, students of color, students with families, part-time students, and older students.</li>  </ul>
 </details>
 
+<br>
+
 ![LGS2](https://github.com/APSAGradHack/APSAGradHack.github.io/raw/master/images/LGS2.png "Passing by a room of socializing cohort members, the grad student of color is left out of the conversation.")
 
