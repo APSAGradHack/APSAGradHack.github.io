@@ -19,7 +19,7 @@ Here is a compilation of ideas to implement in your department to make the envir
     * [The Ralph Bunche Summer Institute](https://www.apsanet.org/rbsi-programinfo) which is an annual, intensive five-week program held at Duke University, designed to introduce to the world of doctoral study in political science those undergraduate students from under-represented racial and ethnic groups.
     * [The Minority Student Recruitment Program](https://www.apsanet.org/msrp) which identifies undergraduate students from underrepresented backgrounds who show potential for or are interested in doctoral study, and shares this recruitment information with APSA member graduate departments that enroll in the program.
 
-    For more programs, please see [the APSA Diversity page](https://www.apsanet.org/diversityprograms).
+    For more programs, please see the [APSA Diversity page](https://www.apsanet.org/diversityprograms).
 
 4. **Organize events** like these regularly:
 
@@ -33,3 +33,14 @@ Here is a compilation of ideas to implement in your department to make the envir
 6. Be cautious and aware **when you talk about affirmative action** with your students. Do not attribute their successes to affirmative action. It is great to hear "You're going to do great on the market!" but it is unhelpful to hear "You're going to do great on the market because there's a high demand for minorities!" Comments like these only exacerbate _imposter syndrome_, in which individuals doubt their abilities and accomplishments. 
 
 7. When having faculty meetings about diversity issues, department climate, or more sensitive and specific issues like harassment, consider **inviting a third party individual** from outside of the department (possibly from Title IX office or the Dean of Diversity office) to serve as a more objective discussion facilitator.
+
+
+## Other Resources
+
++ [Culture of Respect](https://cultureofrespect.org/): research and tools to prevent campus sexual assault
++ [Project Callisto](https://www.projectcallisto.org/): tools for reporting sexual assault and harassment
++ [Gender bias calculator](https://www.tomforth.co.uk/genderbias/) for recommendation letters
++ [Suggestions to deal with ableism](https://chronicallyacademic.blogspot.com)
++ [Visions in Methodology](http://visionsinmethodology.org/resources/): resources for women with Methodology focus
++ [Journeys for World Politics](http://www.saramitchell.org/journeys.html): resources for women with International Relations focus
+
