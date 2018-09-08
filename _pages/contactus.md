@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Contact Us"
 permalink: /contactus/
 author_profile: true
