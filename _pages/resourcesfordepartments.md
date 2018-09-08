@@ -5,7 +5,7 @@ permalink: /resourcesfordepartments/
 author_profile: true
 ---
 
-## Ideas for Making Your Department More Inclusive 
+## Making Your Department More Inclusive 
 
 Here is a compilation of ideas to implement in your department to make the environment more inclusive. The list is inspired by activities and actions some departments are already taking. Contact us if you have any more suggestions.
  
@@ -20,3 +20,15 @@ Here is a compilation of ideas to implement in your department to make the envir
     * [The Minority Student Recruitment Program](https://www.apsanet.org/msrp) which identifies undergraduate students from underrepresented backgrounds who show potential for or are interested in doctoral study, and shares this recruitment information with APSA member graduate departments that enroll in the program.
 
     For more programs, please see [the APSA Diversity page](https://www.apsanet.org/diversityprograms).
+
+4. **Organize events** like these regularly:
+
+    * A mandatory orientation meeting for incoming students that clearly sets expectations for codes of conduct (e.g. speaking in seminars) and norms (e.g. behavior in shared office spaces). Consider providing a space for feedback and inviting advanced graduate students to discuss the departmental culture and answer questions. 
+    * Meetings, for which all are encouraged to attend, to discuss issues experienced by women and other minority groups. Set an agenda beforehand to make it more productive.
+    * Dinners or other gatherings between female/POC students and faculty. This is a great way to build and strengthen mentorship and support networks for students from underrepresented backgrounds. 
+    * Events in which families/kids are welcome and make this explicit. 
+
+    
+    
+    
+    
