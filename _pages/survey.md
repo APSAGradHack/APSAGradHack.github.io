@@ -7,7 +7,7 @@ author_profile: true
 
 ## Graduate Student Diversity and Inclusion Climate Survey
 
-In the months leading up to APSA 2018, we conducted a climate survey of current and recent graduate students in political science departments. In this survey, we asked respondents about the actions that their departments are taking in terms of improving diversity and inclusion, what activities they would like to see, and their own experiences with exclusionary or hostile behavior. 
+In the months leading up to APSA 2018, we conducted a climate survey of current and recent graduate students in political science departments. In this survey, we asked respondents about the actions that their departments are taking in terms of improving diversity and inclusion, what activities they would like to see, and their own experiences with exclusionary or hostile behavior. This survey is approved under the MIT COUHES protocol 1807472014.
 
 Please find below initial results from our survey. You can explore different questions by clicking on the top green drop-down bar, and filter by subgroups based on respondent self-description, institution type, subfield, and career experience, using the filter function at the bottom-left of each chart. These charts are created using [Crunch.io](https://crunch.io/), a survey data analysis platform.
 
