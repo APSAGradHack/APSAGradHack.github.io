@@ -12,11 +12,10 @@ Learn more about the following issues relevant to the graduate student experienc
     <b> Ableism </b>
   </summary>
 <ul>
-  <li> [Brown, Nicole and Leigh, Jennifer S (2018) Ableism in Academia: Where are the disabled and ill academics? Disability and Society, 33 (6)](https://www.tandfonline.com/doi/full/10.1080/09687599.2018.1455627) </li>
-  <li> Dolmage, J. T. (2017). Academic Ableism: Disability and Higher Education. University of Michigan Press. </li>
-  <li> [Hannam-Swain, S. (2018). The additional labour of a disabled PhD student. Disability & Society, 33(1), 138-142.](https://www.tandfonline.com/doi/full/10.1080/09687599.2017.1375698)</li>
-  <li> Suggestions to deal with ableism: [https://chronicallyacademic.blogspot.com](https://chronicallyacademic.blogspot.com) </li>
-</ul>  </details>
+  <li> Brown, Nicole and Leigh, Jennifer S (2018). <a href="https://www.tandfonline.com/doi/full/10.1080/09687599.2018.1455627">Ableism in Academia: Where are the disabled and ill academics?</a> Disability and Society, 33 (6). </li>
+  <li> Dolmage, J. T. (2017). <a href="https://www.press.umich.edu/9708722/academic_ableism">Academic Ableism: Disability and Higher Education.</a> University of Michigan Press. </li>
+  <li> Hannam-Swain, S. (2018). <a href="https://www.tandfonline.com/doi/full/10.1080/09687599.2017.1375698">The additional labour of a disabled PhD student.</a> Disability & Society, 33(1), 138-142.</li>
+ </details>
 
 ### Ethnic Minorities:
 Makarova, E., & Birman, D. (2015). Cultural transition and academic achievement of students from ethnic minority backgrounds: a content analysis of empirical research on acculturation. Educational Research, 57(3), 305-330.
