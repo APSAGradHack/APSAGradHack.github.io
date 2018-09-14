@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## How can political science departments can create an inclusive and productive climate for all graduate students?
+## How can political science departments create an inclusive and productive climate for all graduate students?
 
 At the 2018 American Political Science Association conference, our team of graduate students was a part of the [Hackathon](https://connect.apsanet.org/hackathon/) led by the APSA Presidential Task Force on Women's Advancement. We worked to brainstorm concrete actions that departments can take to enhance the graduate student experience, with specific consideration towards diversity and inclusion. 
 
