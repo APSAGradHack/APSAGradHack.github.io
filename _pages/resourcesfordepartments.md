@@ -50,7 +50,10 @@ Here is a compilation of ideas to implement in your department to make the envir
 + [Culture of Respect](https://cultureofrespect.org/): research and tools to prevent campus sexual assault
 + [Project Callisto](https://www.projectcallisto.org/): tools for reporting sexual assault and harassment
 + [Gender bias calculator](https://www.tomforth.co.uk/genderbias/) for recommendation letters
++ [Women Also Know Stuff](https://womenalsoknowstuff.com/) which promotes work by scholars who identify as women
++ [POC Also Know Stuff](https://sites.google.com/view/pocexperts/home) which promotes work by scholars who identify as POC
++ [Gender bias calculator](https://www.tomforth.co.uk/genderbias/) for recommendation letters
 + [Chronically Academic](https://chronicallyacademic.blogspot.com): resources for academics with disabilities  
-+ [Visions in Methodology](http://visionsinmethodology.org/resources/): resources for women with Methodology focus
-+ [Journeys for World Politics](http://www.saramitchell.org/journeys.html): resources for women with International Relations focus
++ [Visions in Methodology](http://visionsinmethodology.org/resources/): resources for women with a Methodology focus
++ [Journeys for World Politics](http://www.saramitchell.org/journeys.html): resources for women with an International Relations focus
 
